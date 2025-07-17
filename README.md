@@ -1,4 +1,4 @@
-![https://github.com/IBCHgenomic/IBCHgenomic/blob/main/codebiogenomics.jpg])
+![](https://github.com/IBCHgenomic/IBCHgenomic/blob/main/codebiogenomics.jpg)
 
 I work at Instytut Chemii  Bioorganicznej Polskiej Akademii Nauk, Poznań Poland as a part of a very good team. I work as area expert and responsible for genomic analysis and software development from illumina and long read sequencing. I work using Python, R, RUST, Typescript at I provide  bio-software development, algorithms, bioinformatics, machine learning  as an Area Expert area for Illumina and LongRead sequencing technologies  across all domains of life covering plant, bacterial, fungal and humans. I use Python and R (data  analysis and web), RUST (system programming and bio-software) and Typescript and React (Web and Mobile SDK). 
 
