@@ -4,7 +4,7 @@ I work at Instytut Chemii  Bioorganicznej Polskiej Akademii Nauk, Poznań Poland
 
 Scientific and Bio-Computing Areas of Interest: ▶️ I am specific to the genomics area such as RNA-seq, single cell genomics, and any genomics or protein language models and biological deep bio ML 🧬 and bio-software. ❌ I don't do protein structural modelling, and ML on the same.
 
-Sequencing specifics: 
+Sequencing specifics: \
 2010-2021: Plant, Bacterial, Fungi 🧬 RNASeq, GenomSeq, Phylogenomics, PacBio Sequencing, Single Cell Analysis, Bio-software. 👨‍💻 \
 2021:2023: Machine Learning, Bio-software. 👨‍💻 \
 2024: PanGenome, Bio-software👨‍💻. \
