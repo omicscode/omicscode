@@ -19,4 +19,4 @@ Web: Only Typescript and React.
 Data Analysis: Python, R and Julia. 
 Mobile Development: ReactNative and Expo.
 
-[![CodeBioGenomics](https://skillicons.dev/icons?i=js,html,css, bash, rust, discord, linux, materialui, obsidian, r, py, pytorch,tensorflow,tauri,react,ts,vscode,remix)]
+[![CodeBioGenomics](https://skillicons.dev/icons?i=js,html,css, bash, rust, discord, linux, materialui, obsidian, r, py, pytorch,tensorflow,tauri,react,ts,vscode,remix)](https://skillicons.dev)
