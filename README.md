@@ -7,7 +7,7 @@ Scientific and Bio-Computing Areas of Interest:
 ❌ I don't do protein structural modelling, and ML on the same.
 ❌ What i don't code anymore: C++ since 2021 (2010-2021), dropped DevOPS (2024). 
 
-Sequencing specifics: \
+🧬 Sequencing specifics: \
 2010-2021: Plant, Bacterial, Fungi 🧬 RNASeq, GenomSeq, Phylogenomics, PacBio Sequencing, Single Cell Analysis, Bio-software. 👨‍💻 \
 2021:2023: Machine Learning, Bio-software. 🧬 \
 2024: PanGenome, Bio-software. \
