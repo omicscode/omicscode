@@ -19,4 +19,4 @@ Web Development: Only Typescript and React.
 Bioinformatics Data Analysis: Python, R and Julia. 
 Mobile Development: ReactNative and Expo.
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bash,rust,materialui,obsidian,r,py,pytorch,tensorflow,tauri,react,ts,vscode,remix)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,rust,materialui,obsidian,r,py,pytorch,tensorflow,tauri,react,ts,vscode,remix)](https://skillicons.dev)
