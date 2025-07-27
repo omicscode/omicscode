@@ -14,8 +14,8 @@ Scientific and Bio-Computing Areas of Interest:
 2025: Human Genomics 🧬and Bio-software, Mobile Bio-software 🧬 
 
 🧬 Language stack: I am very specific and oritented toward taking typed languages over the others. My language stack has been dominated by the typed languages and you can find below:
-Software Development: C++(Cropped 2021) and started RUST. 
-Web Development: Only Typescript and React. 
+Software Development: C++ (2010-2021) and started RUST. 
+Web Development: Typescript and React. 
 Bioinformatics Data Analysis: Python, R and Julia. 
 Mobile Development: ReactNative and Expo.
 
