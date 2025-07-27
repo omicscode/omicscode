@@ -13,10 +13,10 @@ Sequencing specifics: \
 2024: PanGenome, Bio-software. \
 2025: Human Genomics 🧬and Bio-software, Mobile Bio-software 🧬 
 
-Language stack: I am very specific and oritented toward taking typed languages over the others. My language stack has been dominated by the typed languages and you can find below:
+🧬 Language stack: I am very specific and oritented toward taking typed languages over the others. My language stack has been dominated by the typed languages and you can find below:
 Software Development: C++(Cropped 2021) and started RUST. 
-Web: Only Typescript and React. 
-Data Analysis: Python, R and Julia. 
+Web Development: Only Typescript and React. 
+Bioinformatics Data Analysis: Python, R and Julia. 
 Mobile Development: ReactNative and Expo.
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bash,rust,materialui,obsidian,r,py,pytorch,tensorflow,tauri,react,ts,vscode,remix)](https://skillicons.dev)
