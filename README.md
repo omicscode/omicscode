@@ -11,7 +11,7 @@ Scientific and Bio-Computing Areas of Interest:
 2010-2021: Plant, Bacterial, Fungi 🧬 RNASeq, GenomSeq, Phylogenomics, PacBio Sequencing, Single Cell Analysis, Bio-software. 👨‍💻 \
 2021:2023: Machine Learning, Bio-software. 🧬 \
 2024: PanGenome, Bio-software. \
-2025: Human Genomics 🧬and Bio-software, Mobile Bio-software 🧬 
+2025: Human Genomics 🧬and Bio-software, Mobile Bio-software 🧬 , Blockchain Healthcare 🧬
 
 🧬 Language stack: I am very specific and oritented toward taking typed languages over the others. My language stack has been dominated by the typed languages and you can find below:
 Software Development: C++ (2010-2021) and now I use RUST. 
