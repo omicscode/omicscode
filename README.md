@@ -13,10 +13,10 @@ Scientific and Bio-Computing Areas of Interest:
 2024: PanGenome, Bio-software.🧬 \
 2025: Human Genomics 🧬and Bio-software, Mobile Bio-software 🧬 , Blockchain Healthcare 🧬
 
-🧬 Language stack: I am very specific and oritented toward taking typed languages over the others. My language stack has been dominated by the typed languages and you can find below:\
-Software Development: C++ (2010-2021) and now I use RUST. 
-Web Mobile Development: RUST, Typescript and React and React Native/Expo. 
-Bioinformatics Data Analysis: Python, R. 
+🧬 Language stack: I am very specific and oritented toward taking typed languages over the others. My language stack has been dominated by the typed languages and you can find below: \
+Software Development: C++ (2010-2021) and now I use RUST. \
+Web Mobile Development: RUST, Typescript and React and React Native/Expo. \
+Bioinformatics Data Analysis: Python, R. \
 Blockchain Healthcare: RUST,Javascript and Python. 
 
 🧬 Language categorization: \
