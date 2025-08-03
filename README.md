@@ -19,6 +19,6 @@ Web Mobile Development: RUST, Typescript and React and React Native/Expo.
 Bioinformatics Data Analysis: Python, R. 
 Blockchain Healthcare: RUST,Javascript and Python. 
 
-I have categorized every language for specific purposes, so that i can use the maximum use of the same. I dont do web programming in Python such as Django and other web frameworks in Python. Similarly in R, i dont do Shiny and hence only used Python and R for deep learning and machine learning purposes.This catgorial distincttion for each language allows me to use the maximum benefit of what language has to offer and in-demand according to the latest development.
+🧬 Language categorization: I have categorized every language for specific purposes, so that i can use the maximum use of the same. I dont do web programming in Python such as Django and other web frameworks in Python. Similarly in R, i dont do Shiny and hence only used Python and R for deep learning and machine learning purposes.This catgorial distincttion for each language allows me to use the maximum benefit of what language has to offer and in-demand according to the latest development.
 
 [![My Skills](https://skillicons.dev/icons?i=bash,rust,materialui,obsidian,r,py,pytorch,tensorflow,tauri,react,ts,vscode,remix)](https://skillicons.dev)
