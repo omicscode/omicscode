@@ -7,7 +7,7 @@ Scientific and Bio-Computing Areas of Interest:
 ❌ I don't do protein structural modelling, and ML on the same.
 
 🧬 Sequencing specifics: \
-2010-2021: Plant, Bacterial, Fungi 🧬 RNASeq, GenomSeq, Phylogenomics, PacBio Sequencing, Single Cell Analysis, Bio-software. 👨‍💻 \
+2010-2021: Plant, Bacterial, Fungi 🧬 RNASeq, GenomSeq, Phylogenomics, PacBio Sequencing, Single Cell Analysis, Bio-software. \
 2021:2023: Machine Learning, Bio-software. 🧬 \
 2024: PanGenome, Bio-software.🧬 \
 2025: Human Genomics 🧬and Bio-software, Mobile Bio-software 🧬 , Blockchain Healthcare 🧬
@@ -16,7 +16,7 @@ Scientific and Bio-Computing Areas of Interest:
 Software Development: C++ (2010-2021) and now I use RUST. \
 Web and Mobile Development: RUST, Typescript, React and React Native and Expo. \
 Bioinformatics Data Analysis: Python, R. \
-Blockchain Healthcare: RUST,Javascript, Python and Elixir. 
+Blockchain Healthcare: RUST,Javascript, Python and Elixir. \
 ❌ What i don't code anymore: C++ since 2021 (2010-2021), dropped DevOPS and Golang (2024).
 
 🧬 Language categorization: \
