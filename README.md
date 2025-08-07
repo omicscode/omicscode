@@ -20,3 +20,11 @@ Web and Mobile Development: RUST, React and React Native and Expo. \
 Bioinformatics Data Analysis, Machine and Deep Learning: Python, R. \
 Blockchain Healthcare: RUST, Python and Elixir. \
 ❌ What i don't code anymore: C++ since 2021 (2010-2021), dropped DevOPS and Golang (2024).
+
+Research and Topics and areas , I follow on X (formely Twitter):
+1. Bioinformatics and Computational Biology including data science 🧬. 
+2. Software engineers and programming languages and tooling associated with the same. 
+3. Genomics 🧬 algorithms. 
+4. Machine and deep learning. 
+5. Desktop and Mobile application development. 
+You will find the same on my GitHub account and also on my website.
