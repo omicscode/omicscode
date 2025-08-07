@@ -12,6 +12,7 @@ Scientific and Bio-Computing Areas of Interest:
 2025: Human Genomics 🧬and Bio-software, Mobile Bio-software 🧬 , Blockchain Healthcare 🧬
 
 🧬 Language stack: I am very specific and oritented toward taking typed languages over the others. I have categorized every language for specific purposes, so that i can use the maximum use of the same. Such as, I dont do web programming in Python such as Django and other web frameworks in Python. Similarly in R, i dont do Shiny and hence only used Python and R for deep learning and machine learning purposes. This distincttion allows me to use the maximum benefit of what language has to offer and in-demand according to the latest development in those respective languages. I am not in favour of learning many languages but in favour of keeping a well grounded productive stack. My language stack has been dominated by the typed languages and you can find below: \
+
 Software Development: C++ (2010-2021) and now I use RUST. \
 Web and Mobile Development: RUST, React and React Native and Expo. \
 Bioinformatics Data Analysis: Python, R. \
