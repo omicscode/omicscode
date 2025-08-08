@@ -59,11 +59,18 @@
         "JSON": {
             "tab_size": 2
         },
+        "HEEX": {
+            "language_servers": [
+                "elixir-ls",
+                "tailwindcss-language-server",
+                "emmet-language-server"
+            ]
+        },
         "Elixir": {
             "language_servers": [
                 "next-ls",
                 "!elixir-ls",
-                "..."
+                "tailwindcss-language-server"
             ],
             "format_on_save": {
                 "external": {
@@ -228,7 +235,19 @@
         },
         "elixir-ls": {
             "settings": {
-                "dialyzerEnabled": true
+                "dialyzerEnabled": true,
+                "incrementalDialyzer": true,
+                "fetchDeps": true,
+                "suggestSpecs": true,
+                "enableTestLenses": true
+            }
+        },
+        "tailwindcss-language-server": {
+            "settings": {
+                "includeLanguages": {
+                    "heex": "html",
+                    "Elixir": "html"
+                }
             }
         },
         "ruff": {
@@ -322,7 +341,7 @@
         "diagnostics": false,
         "metrics": false
     },
-    "theme": "Base16 Bright",
+    "theme": "Base16 Ayu Mirage",
     "tab_size": 4,
     "ui_font_size": 16,
     "vim_mode": false
