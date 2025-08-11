@@ -18,7 +18,7 @@ I am not in favour of learning many languages but in favour of keeping a well gr
 Software Development: C++ (2010-2021) and now I use RUST. \
 Web and Mobile Development: RUST, React and React Native and Expo. \
 Bioinformatics Data Analysis, Machine and Deep Learning: Python \
-Blockchain Healthcare: RUST, Python and Elixir. \
+Blockchain Healthcare: RUST \
 ❌ What i don't code anymore: C++ since 2021 (2010-2021), dropped DevOPS and Golang (2024).
 
 Research and Topics and areas , I follow on X (previously Twitter).You will find the same on my GitHub account and also on my website: Bioinformatics and Computational Biology including data science 🧬, Software engineers and programming languages and tooling associated with the same, Genomics 🧬 algorithms, Machine and deep learning., Desktop and Mobile application development. 
