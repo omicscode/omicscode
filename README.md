@@ -20,10 +20,10 @@ Blockchain Healthcare: RUST \
 ❌ What i don't code anymore: C++ since 2021 (2010-2021), dropped DevOPS and Golang (2024).
 
 🧬 Research and Topics and areas, I follow on X (previously Twitter).You will find the same on my GitHub account: 
-1. Bioinformatics and Computational Biology including data science 🧬. \
+1. Bioinformatics and Computational Biology including data science 🧬. 
 2. Software engineers and programming languages and tooling associated with the same,
-3. Genomics 🧬 algorithms \
-4. Machine and deep learning \
-5. Desktop and Mobile application development.\
+3. Genomics 🧬 algorithms 
+4. Machine and deep learning 
+5. Desktop and Mobile application development.
 
-🧬 Research and Topics and areas, I dont work, read and explore: DevOPS and System Design and Management. 
+🧬 Research and Topics and areas, I dont work, read and explore: DevOPS, IOT and System Design and Management. 
