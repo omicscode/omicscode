@@ -9,7 +9,7 @@ Scientific and Bio-Computing Areas of Interest:
 2010-2021: Plant, Bacterial, Fungi 🧬 RNASeq, GenomSeq, Phylogenomics, PacBio Sequencing, Single Cell Analysis, Bio-software. \
 2021:2023: Machine Learning, Bio-software. 🧬 \
 2024: PanGenome, Bio-software.🧬 \
-2025: Human Genomics🧬and Bio-software,Mobile Bio-software 🧬,Blockchain Healthcare 🧬
+2025: Human Genomics🧬and Bio-software,Mobile and Blockchain Healthcare🧬
 
 🧬 Language stack: I am very specific and oritented toward taking typed languages over the others. I have categorized every language for specific purposes, so that i can use the maximum use of the same. Such as, I dont do web programming in Python such as Django and other web frameworks in Python. I only use Python for deep and machine learning purposes. This distinction allows me to use the maximum benefit of what language has to offer and in-demand according to the latest development in those respective languages. I am not in favour of learning many languages but in favour of keeping a well grounded productive stack for my work. Hence, what i do, you will find below and this is what i code in recently and will code in future and my complete attention goes to this productive stack only. My language stack has been dominated by the typed languages and you can find below: 
 
@@ -26,4 +26,6 @@ Blockchain Healthcare: RUST \
 4. Machine and deep learning 
 5. Desktop and Mobile application development.
 
-🧬 Research and Topics and areas, I dont work, read and explore: DevOPS, IOT and System Design and Management. 
+🧬 Research and Topics and areas, I dont work, read and explore: DevOPS, IOT and System Design and Management, GeoInformatics or Machine Learning. 
+
+🧬 See the commit tag as final or build release for the release. 
