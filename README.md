@@ -18,9 +18,8 @@
 🧬 Research and Topics and areas, I follow on X (previously Twitter).You will find the same on my GitHub account: 
 1. Bioinformatics and Computational Biology including data science 🧬. 
 2. Programming languages and tooling associated with the same,
-3. Genomics 🧬 algorithms 
-4. Machine and deep learning
-5. 
+3. Genomics 🧬 algorithms, Machine and deep learning.
+
 🧬 Research and Topics and areas, I dont work, read and explore: DevOPS, IOT and System Design and Management, GeoInformatics or Machine Learning. 
 
 🧬 See the commit tag as final or build release for the release. 
