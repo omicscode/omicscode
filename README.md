@@ -10,6 +10,6 @@
 
 🧬 Software Development:C++(2010-2021), 2024: RUST. \
 🧬 Web/Solana Development: RUST, React \
-🧬 Bioinformatics/Data Analysis/Machine and Deep Learning: Python or R depending on what needs to be used.
+🧬 Bioinformatics/Data Analysis/Machine and Deep Learning: Python or R depending on what needs to be used. \
 🧬 Research and Topics and areas, I follow on X (previously Twitter).You will find the same on my GitHub account: 1. Bioinformatics and Computational Biology including data science 🧬. 2. Programming languages and tooling associated with the same. 3. Genomics 🧬 algorithms, Machine and deep learning.
 🧬 RUST release: See the commit tag as final or build release for the release.
