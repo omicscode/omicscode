@@ -1,6 +1,6 @@
 ![](https://github.com/codebiogenomics/codebiogenomics/blob/main/codebiogenomics.jpg)
 
-🧬 genomicssport: I work at Instytut Chemii Bioorganicznej Polskiej Akademii Nauk, Poznań Poland as area expert of a very good team and responsible for genomic analysis and software development for illumina and long read sequencing approaches. I provide bio-software development, algorithms, bioinformatics, machine learning for Illumina and LongRead sequencing technologies across all species. What i do and what i have done is outlaid below including classification of the programming languages for each task, so that you can have a broader idea of what you are looking into and what i extend. I am specific to the analysis in the areas of RNA-seq and Single cell, Metagenomics and Pangenomics covering all species. Similarly, Biological Machine and Deep learning specific to biological questions 🧬 and bio-software.
+🧬 genomicssport: I work at Instytut Chemii Bioorganicznej Polskiej Akademii Nauk, Poznań Poland as area expert of a very good team and responsible for genomic analysis and software development for illumina and long read sequencing approaches. I provide bio-software development, algorithms, bioinformatics, machine learning for Illumina and LongRead sequencing technologies across all species. What i do and what i have done is outlaid below including classification of the programming languages for each task, so that you can have a broader idea of what you are looking into and what i extend. I am specific to the analysis in the areas of RNA-seq and Single cell, Metagenomics and Pangenomics covering all species. Similarly, Biological Machine and Deep learning specific to biological questions 🧬 and bio-software. 🧬 Research and Topics and areas, I dont work, read and explore: DevOPS, IOT and System Design and Management, GeoInformatics or Machine Learning.
 
 🧬 Sequencing specifics: \
 2010-2021: Plant, Bacterial, Fungi 🧬 RNASeq, GenomSeq, Phylogenomics, PacBio Sequencing, Single Cell Analysis, Bio-software. \
@@ -17,6 +17,5 @@
 2. Programming languages and tooling associated with the same,
 3. Genomics 🧬 algorithms, Machine and deep learning.
 
-🧬 Research and Topics and areas, I dont work, read and explore: DevOPS, IOT and System Design and Management, GeoInformatics or Machine Learning.
 
-🧬 See the commit tag as final or build release for the release.
+🧬 RUST release: See the commit tag as final or build release for the release.
