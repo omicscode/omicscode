@@ -6,6 +6,6 @@ Sequencing specifics: \
 2024: PanGenome, Bio-software. \
 2025: Human Genomics and Bio-software,Mobile and Blockchain Healthcare \
 Software Development:C++(2010-2021), 2024: RUST. \
-Web/Solana Development: RUST, React \
+Web Development: RUST, React \
 Bioinformatics/Data Analysis/Machine and Deep Learning: Python or R depending on what needs to be used. \ 
 RUST release: See the commit tag as final or build release for the release.
