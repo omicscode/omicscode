@@ -4,8 +4,8 @@ Sequencing specifics: \
 2010-2021: Plant, Bacterial, Fungi: RNASeq, GenomSeq, Phylogenomics, PacBio Sequencing, Single Cell Analysis, Bio-software. \
 2021:2023: Machine Learning, Bio-software. \
 2024: PanGenome, Bio-software. \
-2025: Human Genomics and Bio-software,Mobile and Blockchain Healthcare \
+2025: Human Genomics and Bio-software \
 Software Development:C++(2010-2021), 2024: RUST. \
-Web Development: RUST, React \
+Web Development: RUST,Svelte \
 Bioinformatics/Data Analysis/Machine and Deep Learning: Python or R depending on what needs to be used. \ 
 RUST release: See the commit tag as final or build release for the release.
