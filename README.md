@@ -4,7 +4,7 @@ Sequencing specifics: \
 2021:2023: Machine Learning, Bio-software. \
 2024: PanGenome, Bio-software. \
 2025: Human Genomics, Bio-software \
-Software Development:C++(2010-2021), 2024: RUST. \
+Software Development:C++(2010-2021), 2024: RUST, 2025- Started writing back C++ along with RUST. \
 Web Development: RUST,Svelte \
 Bioinformatics/Data Analysis/Machine and Deep Learning: Python or R depending on what needs to be used.\
 RUST release: See the commit tag as final or build release for the release.\
