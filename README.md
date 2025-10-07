@@ -7,5 +7,5 @@ Sequencing specifics: \
 Software Development:C++(2010-2021), 2024: RUST, 2025- Started writing back C++ along with RUST. \
 Web Development: RUST \
 Bioinformatics/Data Analysis/Machine and Deep Learning: Python or R.\
-RUST release: See the commit tag as final or build release for the release.\
+RUST release: See the commit tag as final or build release for the release.
  
