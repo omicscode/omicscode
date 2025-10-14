@@ -1,6 +1,6 @@
 Research: 
 
-What i prefer: Research and Academic Roles as Bioinformatician, NGS Specialist, Bio software Developer, BCTO, and Lead researcher roles as Senior CTO, Senior Computational Lead and Bioinformatician/Associate. I am not interested in freelancing and technician (so please kindly don't contact regarding the same). 
+What i prefer: Research and Academic Roles as Bioinformatician, Computational Biology and Genomics, NGS Specialist, Bio software Developer, Bioinformatics CTO, and Lead researcher roles as Senior CTO, Senior Computational Lead and Bioinformatician/Associate. I am not interested in freelancing and technician (so please kindly don't contact regarding the same). 
 
 Genomic analysis and software development for illumina and long read sequencing approaches. I provide bio-software development, algorithms, bioinformatics, machine learning for Illumina and LongRead sequencing technologies across all species. What i do and what i have done is outlaid below including classification of the programming languages for each task, so that you can have a broader idea of what you are looking into and what i extend. I am specific to the analysis in the areas of RNA-seq and Single cell, Metagenomics and Pangenomics covering all species. Similarly, Biological Machine and Deep learning specific to biological questions, biological language models and bio-software. 
 
