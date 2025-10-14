@@ -11,7 +11,7 @@ Sequencing specifics: \
 2021:2023: Machine Learning, Bio-software. \
 2024: PanGenome, Bio-software. \
 2025: Human Genomics, Bio-software \
-Software Development:C++(2010-2021), 2024-: RUST \
+Software Development: C++(2010-2021), 2024-: RUST \
 Web Development: RUST \
 Bioinformatics/Data Analysis/Machine and Deep Learning: Python or R.\
 HPC Management: Golang (2024:-). 
