@@ -14,8 +14,7 @@ Sequencing specifics: \
 Software Development:C++(2010-2021), 2024-: RUST \
 Web Development: RUST \
 Bioinformatics/Data Analysis/Machine and Deep Learning: Python or R.\
-HPC Management: Golang(2024:-).
-RUST release: See the commit tag as final or build release for the release.
+HPC Management: Golang (2024:-). \
 
 Background:
 
