@@ -6,7 +6,7 @@ Research Areas, I work: Genomic analysis and software development for illumina a
 
 Research Areas, I dont work: System Design and Management, GeoInformatics or Machine Learning for GeoInformatics. I dont do LLMs and RAG based fine tuning models for text analysis or chatbots. I only use machine learning and deep learning for biological sciences.
 
-Academic and Research teaching: I am not a programming language teacher or private teacher or YouTuber and not interested in such freelancing roles or formig collaboration on the same. I only read and write, RUST, Python, and Golang and use this for the scientific and academic research. As a part of the scientific and academic research, I can give the language classes to academics and research students.
+Academic and Research teaching: I am not a programming language teacher or private teacher or YouTuber and not interested in such freelancing roles or forming collaboration on the same. I only read and write, RUST, Python, and Golang and use this for the scientific and academic research. As a part of the scientific and academic research, I can give the language classes to academics and research students.
 
 Sequencing specifics: \
 2010-2021: Plant, Bacterial, Fungi: RNASeq, GenomSeq, Phylogenomics, PacBio Sequencing, Single Cell Analysis, Bio-software. \
