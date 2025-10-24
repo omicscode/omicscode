@@ -4,7 +4,7 @@ Research Jobs | Position | Chances | Oppurtunity: Research and Academic Roles as
 
 Research Areas, I work: Genomic analysis and software development for illumina and long read sequencing approaches. I provide bio-software development, algorithms, bioinformatics, machine learning for Illumina and LongRead sequencing technologies across all species. I am specific to the analysis in the areas of RNA-seq and Single cell, Metagenomics and Pangenomics covering all species. Similarly, Biological Machine and Deep learning specific to biological questions, biological language models and bio-software, HPC management.
 
-Research Areas, I dont work: System Design and Management, GeoInformatics or Machine Learning for GeoInformatics. I dont do LLMs and RAG based fine tuning models for text analysis or chatbots. I only use machine learning and deep learning for biological sciences.
+Research Areas, I dont work: System Design and Management, GeoInformatics or Machine Learning for GeoInformatics. I dont do LLMs and RAG based fine tuning models for building chatbots. I only use machine learning and deep learning for biological sciences.
 
 Academic and Research teaching: I am not a programming language teacher or private teacher or YouTuber and not interested in such freelancing roles or forming collaboration on the same. I only read and write, RUST, Python, and Golang and use this for the scientific and academic research. As a part of the scientific and academic research, I can give the language classes to academics and research students.
 
@@ -15,7 +15,7 @@ Sequencing specifics: \
 2025: Human Genomics, Bio-software \
 Software Development: C++(2010-2021), 2024-: RUST \
 Web Development: RUST \
-Bioinformatics/Data Analysis/Machine and Deep Learning: Python or R.\
+Bioinformatics/Data Analysis/Machine and Deep Learning: Python \
 HPC Management: Golang (2024:-). 
 
 Background:
