@@ -31,7 +31,7 @@ Since 2019, my research has shifted to examining the genomes of fungi whose spec
 From 2022-2023, i added several new skills as a carrier advancement. From 2024 onwards, I worked at Universitat Potsdam, Germany, where I self-learnt RUST and develop approaches for machine and deep learning. During the time, I bench-marked PacBioHifi genome analysis and created a complete HMTL, CSS, Javascript enabled web and also coded several approaches, packages in Python and  RUST.  Since 2025, I worked as Area Expert at Instytut Chemii Bioorganicznej Polskiej Akademii Nauk, Poland, and i worked on human genomics and developed computational approaches for human genomics and software development. 
 
 
-RUST development: See the last commit tag as the final build release for each of the source repository. 
+Python, RUST and GoLang development: See the last commit tag as the final build release for each of the source repository. 
 
 -> [eVaiUtilities](https://github.com/omicscode/eVaiutilities): Variant analysis from the eVai. \
 ->  [panscape](https://github.com/omicscode/panscape): Pangenome long reads \
