@@ -30,4 +30,30 @@ Since 2019, my research has shifted to examining the genomes of fungi whose spec
 
 From 2022-2023, i added several new skills as a carrier advancement. From 2024 onwards, I worked at Universitat Potsdam, Germany, where I self-learnt RUST and develop approaches for machine and deep learning. During the time, I bench-marked PacBioHifi genome analysis and created a complete HMTL, CSS, Javascript enabled web and also coded several approaches, packages in Python and  RUST.  Since 2025, I worked as Area Expert at Instytut Chemii Bioorganicznej Polskiej Akademii Nauk, Poland, and i worked on human genomics and developed computational approaches for human genomics and software development. 
 
+
+RUST development: See the last commit tag as the final build release for each of the source repository. 
+
+-> [eVaiUtilities](https://github.com/omicscode/eVaiutilities): Variant analysis from the eVai.
+->  [panscape](https://github.com/omicscode/panscape): Pangenome long reads
+-> [sequenceprofiler](https://github.com/omicscode/sequenceprofiler): Profiling sequence kmers for histograms
+-> [phyloevolve](https://github.com/omicscode/phyloevolve): Evolutionary genomics for long reads and alignments from the multiple alignments.
+-> [hpcMapper](https://github.com/omicscode/hpcMapper): DevOPS system managment for the high performance computing.
+-> [bacdive](https://github.com/omicscode/bacdive): Bacterial genome analysis from Bacdive.
+->  [NLRanalyzer](https://github.com/omicscode/NLRanalyzer): Complete kit for analyzing NLR.
+-> [humanCAST](https://github.com/omicscode/humanCAST): Complete kit for human genome analysis.
+-> [araseq](https://github.com/omicscode/araseq): Complete kit for the Arabidopsis genome information.
+->  [minifyseq](https://github.com/omicscode/minifySeq): Complete software for the noise removal from the long reads inclduing the machine learning based.
+-> [CAGanalyzer](https://github.com/omicscode/CAGrepeat-analyzer): Analyzing the CAG repeats from the human genome.
+-> [doiTAG](https://github.com/omicscode/doiTAG): Generating doi for the sequences for next generation sequencing.
+-> [varLinker](https://github.com/omicscode/varlinker): Analyzing and linking variants for annotation.
+-> [vcfFilter](https://github.com/omicscode/vcfilter): Filtering VCF files
+-> [rustRet](https://github.com/omicscode/rustRet): Analyzing the massspectrometry data.
+-> [repgnerate](https://github.com/omicscode/repgenerate): Analyzing the sequencing information post sequencing.
+-> [proteogenomics](https://github.com/omicscode/proteogenomics): implementing the proteogenomics methods.
+-> [geomapper](https://github.com/omicscode/geomapper): a complete kit for geospatial analysis for German geo.
+-> [ensemblcov](https://github.com/omicscode/ensemblcov): a complete kit for using the ensemblcov at your commandline.
+-> [bactiPAN](https://github.com/omicscode/varView): complete bacterial pangenome analyzer both in shell and RUST.
+-> [varView](https://github.com/omicscode/varView): Graphics enabled Variant terminal analyzer in GOlang.
+-> [doseqGO](https://github.com/omicscode/doseqGO): A complete sequence information portal for standalone sequence information. 
+
  
