@@ -1,4 +1,4 @@
-Research: 
+**Gaurav Sablok, PhD**:
 
 **Research and Academic Roles** as Bioinformatician, Computational Biology and Genomics, NGS Specialist, Research Scientist, Bio-Software Developer, Bioinformatics CTO, and Lead researcher roles as Senior CTO, Senior Computational Lead and Bioinformatician/Associate. I am not interested in freelancing and technician jobs (so please kindly don't contact regarding the same). Genomic analysis and software development for illumina and long read sequencing approaches. I provide bio-software development, algorithms, bioinformatics, machine learning for Illumina and LongRead sequencing technologies across all species. I am specific to the analysis in the areas of RNA-seq and Single cell, Metagenomics and Pangenomics covering all species. Similarly, Biological Machine and Deep learning specific to biological questions, biological language models and bio-software, HPC management. I prefer academic and research areas in University and Organization. 
 
