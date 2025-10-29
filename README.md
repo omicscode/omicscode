@@ -12,7 +12,7 @@ Research:
 **Software Development:** C++(2010-2021), 2024-: RUST \
 **Web Development:** RUST 🦀 i use Axum, Rocket, Dioxus, Actix, Leptos web framework and Python\
 **Bioinformatics/Machine and Deep Learning:** RUST and Python using Keras, XgBoost, Tensorflow and PyTorch. \
-**HPC Management:** RUST and Python (2024:-). \
+**HPC Management:** RUST and Python (2024:-). 
 
 **Background:**
 
@@ -25,6 +25,8 @@ From 2022-2023, i added several new skills as a carrier advancement. From 2024 o
 **Software Research**: Over the years, I have worked with several languages such as C++ (2010-2021), R (2010-2025), Python (2021-), GOlang (2024-2025), RUST (2024-) but mostly used one system programming language such as C++(2010-2021) and then replaced with RUST(2024-) and R (2010-) replaced with Python (2021-). I still use R as a part of the analysis but mostly where it is not having a Python companion. I believe more in addressing software development using the programming languages i prefer and not to show off multiple languages. Hence i take the languages, which are dominant in their field. 
 
 As a fantatic reader and coder (I wrote and developed every software as single lead bioinformatician at every employment), I sometimes read a little bit about other languages but that doesnt mean, I plan to use them. I do this to enhance my knowledge and bring that features to the language i use. As of now, I only code in RUST as a full stack developer and Python for machine learning and interpolation with RUST. I believe a Bioinformatician/Software Developer should be well informed of the software research in their areas so that they can actively use them for the place of the employment. 
+
+Use of selected languages for everything has enabled me to scale my abilities to everything at every employment and i served as a single lead bioinformatician from software developer to bioinformatics data analysis, machine learning and HPC cloud management. 
 
 
 **Python and RUST development**: Few of them and click the source for more of them. See the last commit tag as the final build release for each of the source repository. Over 5K crates download. **These languages I only plan to use forever for anything in my software developer for bioinformatics, machine and deep learning, HPC and cloud management.**
