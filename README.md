@@ -10,10 +10,9 @@ Research:
 2024: PanGenome, Bio-software. \
 2025: Human Genomics, Bio-software \
 **Software Development:** C++(2010-2021), 2024-: RUST \
-**Web Development:** RUST and Python\
-**Bioinformatics/Machine and Deep Learning:** Python \
+**Web Development:** RUST 🦀 i use Axum, Rocket, Dioxus, Actix, Leptos web framework and Python\
+**Bioinformatics/Machine and Deep Learning:** RUST and Python using Keras, XgBoost, Tensorflow and PyTorch. \
 **HPC Management:** RUST and Python (2024:-). \
-**Appplication specific:** RUST 🦀 i use Axum, Rocket, Dioxus, Actix, Leptos web framework. For Machine learning, Keras, XgBoost, Tensorflow and PyTorch.
 
 **Background:**
 
@@ -28,7 +27,7 @@ From 2022-2023, i added several new skills as a carrier advancement. From 2024 o
 As a fantatic reader and coder (I wrote and developed every software as single lead bioinformatician at every employment), I sometimes read a little bit about other languages but that doesnt mean, I plan to use them. I do this to enhance my knowledge and bring that features to the language i use. As of now, I only code in RUST as a full stack developer and Python for machine learning and interpolation with RUST. I believe a Bioinformatician/Software Developer should be well informed of the software research in their areas so that they can actively use them for the place of the employment. 
 
 
-**Python and RUST development**: Few of them and click the source for more of them. See the last commit tag as the final build release for each of the source repository. Over 5K crates download. 
+**Python and RUST development**: Few of them and click the source for more of them. See the last commit tag as the final build release for each of the source repository. Over 5K crates download. **These languages I only plan to use forever for anything in my software developer for bioinformatics, machine and deep learning, HPC and cloud management.**
 
 -> [eVaiUtilities](https://github.com/omicscode/eVaiutilities): Variant analysis from the eVai. \
 -> [panscape](https://github.com/omicscode/panscape): Pangenome long reads \
