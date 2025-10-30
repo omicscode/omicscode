@@ -52,6 +52,7 @@ Use of selected languages for everything has enabled me to scale my abilities to
 - [ensemblcov](https://github.com/omicscode/ensemblcov): a complete kit for using the ensemblcov at your commandline.
 - [bactiPAN](https://github.com/omicscode/varView): complete bacterial pangenome analyzer both in shell and RUST.
 - [varView](https://github.com/omicscode/varView): Graphics enabled Variant terminal analyzer in GOlang.
-- [doseqGO](https://github.com/omicscode/doseqGO): A complete sequence information portal for standalone sequence information. 
+- [doseqGO](https://github.com/omicscode/doseqGO): A complete sequence information portal for standalone sequence information.
+- [varview](https://github.com/omicscode/varview): Paralel threaded sam viewer and filter. 
 
  
