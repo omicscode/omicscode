@@ -10,8 +10,8 @@
 2024: PanGenome, Bio-software. \
 2025: Human Genomics, Bio-software \
 **Software Development:** C++(2010-2021), 2024-: RUST \
-**Web Development:** RUST 🦀 i use Axum, Rocket, Dioxus, Actix, Leptos web framework and Python\
-**Bioinformatics/Machine and Deep Learning:** RUST and Python using Keras, XgBoost, Tensorflow and PyTorch. \
+**Web Development:** RUST 🦀 i use Axum, Rocket, Dioxus, Actix, Yew, Leptos web framework and Python\
+**Bioinformatics/Machine and Deep Learning:** RUST and Python using Keras, Scikit, XgBoost, Tensorflow and PyTorch. \
 **HPC Management:** RUST and Python (2024:-). 
 
 **Background:**
