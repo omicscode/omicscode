@@ -53,6 +53,8 @@ Use of selected languages for everything has enabled me to scale my abilities to
 - [bactiPAN](https://github.com/omicscode/varView): complete bacterial pangenome analyzer both in shell and RUST.
 - [varView](https://github.com/omicscode/varView): Graphics enabled Variant terminal analyzer in GOlang.
 - [doseqGO](https://github.com/omicscode/doseqGO): A complete sequence information portal for standalone sequence information.
-- [varview](https://github.com/omicscode/varview): Paralel threaded sam viewer and filter. 
+- [varview](https://github.com/omicscode/varview): Paralel threaded sam viewer and filter.
+- [fastscan](https://github.com/omicscode/fastscan): Scan high through seqeuncing files.
+- [vcfscan](https://github.com/omicscode/vcfscan): Scan all the variants and filter the variants.
 
  
