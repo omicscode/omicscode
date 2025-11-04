@@ -2,7 +2,7 @@
 
 **Research and Academic Roles:** as Bioinformatician, Computational Biology and Genomics, NGS Specialist, Research Scientist, Bio-Software Developer, Bioinformatics CTO, and Lead researcher roles as Senior CTO, Senior Computational Lead and Bioinformatician/Associate. I am not interested in freelancing and technician jobs (so please kindly don't contact regarding the same). Genomic analysis and software development for illumina and long read sequencing approaches. I provide bio-software development, algorithms, bioinformatics, machine learning for Illumina and LongRead sequencing technologies across all species. I am specific to the analysis in the areas of RNA-seq and Single cell, Metagenomics and Pangenomics covering all species. Similarly, Biological Machine and Deep learning specific to biological questions, biological language models and bio-software, HPC management. I prefer academic and research areas in University and Organization. 
 
-**Academic and Research teaching:** I only read and write, fullstack Python and RUST for the scientific and academic research. As a part of the scientific and academic research, I can give the language classes to academics and research students. I am not a private teacher or YouTuber and not interested in such freelancing roles or forming collaboration on the same. Read the software research for more detail so that my thinking can be gleaned. 
+**Academic and Research teaching:** I only read and write, fullstack RUST for the scientific and academic research. As a part of the scientific and academic research, I can give the language classes to academics and research students. I am not a private teacher or YouTuber and not interested in such freelancing roles or forming collaboration on the same. Read the software research for more detail so that my thinking can be gleaned. 
 
 **Sequencing specifics:** \
 2010-2021: Plant, Bacterial, Fungi: RNASeq, GenomSeq, Phylogenomics, PacBio Sequencing, Single Cell Analysis, Bio-software. \
@@ -10,9 +10,9 @@
 2024: PanGenome, Bio-software. \
 2025: Human Genomics, Bio-software \
 **Software Development:** C++(2010-2021), 2024-: RUST \
-**Web Development:** RUST 🦀 i use Axum, Rocket, Dioxus, Actix, Yew, Leptos web framework and Python\
-**Bioinformatics/Machine and Deep Learning:** RUST and Python using Keras, Scikit, XgBoost, Tensorflow and PyTorch. \
-**HPC Management:** RUST and Python (2024:-). 
+**Web Development:** RUST 🦀 i use Axum, Rocket, Dioxus, Actix, Yew, Leptos web framework \
+**Bioinformatics/Machine and Deep Learning:** RUST using Keras, Scikit, XgBoost, PyTorch, Tch, Linfa, Candle \
+**HPC Management:** RUST. 
 
 **Background:**
 
@@ -22,14 +22,11 @@ Since August 2017, I have worked as a Postdoctoral researcher at the Finnish Mus
 
 From 2022-2023, i added several new skills as a carrier advancement. From 2024 onwards, I worked at Universitat Potsdam, Germany, where I self-learnt RUST and develop approaches for machine and deep learning. During the time, I bench-marked PacBioHifi genome analysis and created a complete HMTL, CSS, Javascript enabled web and also coded several approaches, packages in Python and  RUST.  Since 2025, I worked as Area Expert at Instytut Chemii Bioorganicznej Polskiej Akademii Nauk, Poland, and i worked on human genomics and developed computational approaches for human genomics and software development.
 
-**Software Research:** Over the years, I have worked with several languages such as C++ (2010-2021), R (2010-2025), Python (2021-), GOlang (2024-2025), RUST (2024-) but mostly used one system programming language such as **C++ (2010-2021) and then replaced with RUST, which i eat and breathe right now and forever like C++ previously over 5K crates download** (2024-forever) and R (2010-) replaced with Python (2021-). I still use R as a part of the analysis but mostly where it is not having a Python companion. I believe more in addressing software development using the programming languages i prefer and not to show off multiple languages. Hence i take the languages, which are dominant in their field. 
+**Software Research:** Over the years, I have worked with several languages such as C++ (2010-2021), R (2010-2025), Python (2021-), GOlang (2024-2025), RUST (2024-) but mostly used one system programming language such as **C++ (2010-2021) and then replaced with RUST, which i only use now and forever like C++ previously over 5K crates download** (2024-forever) and R (2010-) replaced with Python (2021-). I still use Python and R as a part of the analysis but mostly where it is not having a Python companion. I believe more in addressing software development using the programming languages i prefer and not to show off multiple languages. Hence i take the languages, which are dominant in their field. 
 
-As a fantatic reader and coder (I wrote and developed every software as single lead bioinformatician at every employment), I sometimes read a little bit about other languages but that doesnt mean, I plan to use them. I do this to enhance my knowledge and bring that features to the language i use. As of now, I only code in RUST as a full stack developer and Python for machine learning and interpolation with RUST. I believe a Bioinformatician/Software Developer should be well informed of the software research in their areas so that they can actively use them for the place of the employment. 
+As a fantatic reader and coder (I wrote and developed every software as single lead bioinformatician at every employment), I sometimes read a little bit about other languages but that doesnt mean, I plan to use them. I do this to enhance my knowledge and bring that features to the language i use. As of now, I only code in RUST as a full stack developer from bioinformatics, software, web and machine and deep learning. I believe a Bioinformatician/Software Developer should be well informed of the research in their areas so that they can actively use them for the place of the employment. I prefer using the modt demanded and ahead of the time language and hence prefer RUST 🦀 . Use of selected languages for everything has enabled me to scale my abilities to everything at every employment and i served as a single lead bioinformatician from software developer to bioinformatics data analysis, machine learning and HPC cloud management. 
 
-Use of selected languages for everything has enabled me to scale my abilities to everything at every employment and i served as a single lead bioinformatician from software developer to bioinformatics data analysis, machine learning and HPC cloud management. 
-
-
-**Python and RUST development:** Few of them and click the source for more of them. See the last commit tag as the final build release for each of the source repository. **These languages I only plan to use forever for anything in my software developer for bioinformatics, machine and deep learning, HPC and cloud management.**
+**RUST development:** Few of them and click the source for more of them. See the last commit tag as the final build release for each of the source repository. **RUST I only plan to use forever for anything in my software developer for bioinformatics, machine and deep learning, HPC and cloud management.**
 
 - [eVaiUtilities](https://github.com/omicscode/eVaiutilities): Variant analysis from the eVai. 
 - [panscape](https://github.com/omicscode/panscape): Pangenome long reads 
