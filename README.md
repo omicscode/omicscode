@@ -11,6 +11,8 @@
 2025: Human Genomics, Bio-software \
 **Software Development:** C++(2010-2021), 2024-: RUST \
 **Web Development:** RUST 🦀 i use Axum, Rocket, Dioxus, Actix, Yew, Leptos web framework \
+**Standalone Development:** eGUI, Iced, Druid, GLTK.
+**Terminal Development:** Ratatui. 
 **Bioinformatics/Machine and Deep Learning:** RUST using Scikit, XgBoost, PyTorch, Tch, Linfa, SmartCore, Candle \
 **HPC Management:** RUST. 
 
