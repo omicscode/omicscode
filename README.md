@@ -1,20 +1,17 @@
 **Gaurav Sablok, PhD**
 
-**Research and Academic Roles:** as Bioinformatician, Computational Biology and Genomics, NGS Specialist, Research Scientist, Scientific Software Developer, Bioinformatics CTO, and Lead researcher roles as Senior CTO, Senior Computational Lead and Bioinformatician/Associate. I am not interested in freelancing and technician jobs (so please kindly don't contact regarding the same). Genomic analysis and software development for illumina and long read sequencing approaches. I provide bio-software development, algorithms, bioinformatics, machine learning for Illumina and LongRead sequencing technologies across all species. I am specific to the analysis in the areas of RNA-seq and Single cell, Metagenomics and Pangenomics covering all species. Similarly, Biological Machine and Deep learning specific to biological questions, biological language models and bio-software, HPC management. I prefer academic and research areas in University and Organization. I am not interested in **Solana and Bitcoin Development using RUST**. 
+**Research and Academic:** I like to work as Bioinformatician, Computational Biology and Genomics, NGS Specialist, Research Scientist, Scientific Software Developer, Bioinformatics CTO, and Lead researcher roles as Senior CTO, Senior Computational Lead and Bioinformatician/Associate. I am not interested in freelancing and technician jobs. I am specific to the analysis in the areas of RNA-seq and Single cell, Metagenomics and Pangenomics covering all species and provide bio-software development, algorithms, bioinformatics, machine and deep learning for Illumina and LongRead sequencing technologies. I prefer academic and research areas in University and Organization. I only read and write, fullstack RUST for the scientific and academic research. As a part of the scientific and academic research, I am open to language classes to academics and research students. I am not a YouTuber and not interested in such freelancing roles or forming collaboration on the same.
 
-**Academic and Research teaching:** I only read and write, fullstack RUST for the scientific and academic research. As a part of the scientific and academic research, I can give the language classes to academics and research students. I am not a private teacher or YouTuber and not interested in such freelancing roles or forming collaboration on the same. Read the software research for more detail so that my thinking can be gleaned. 
-
-**Sequencing specifics:** \
+**Sequencing::** \
 2010-2021: Plant, Bacterial, Fungi: RNASeq, GenomSeq, Phylogenomics, PacBio Sequencing, Single Cell Analysis, Bio-software. \
 2021:2023: Machine Learning, Bio-software. \
 2024: PanGenome, Bio-software. \
 2025: Human Genomics, Bio-software \
 **Software Development:** C++(2010-2021), 2024-: RUST \
-**Web Development:** RUST 🦀 i use Axum, Rocket, Dioxus, Actix, Yew, Leptos web framework \
+**Web Development:** RUST 🦀 i use Axum, Rocket, Dioxus, Actix, Warp, Loco, Yew, Leptos \
 **Standalone Development:** eGUI, Iced, Druid, GLTK. \
-**Terminal Development:** Ratatui. \
-**Bioinformatics/Machine and Deep Learning:** RUST using Scikit, XgBoost, PyTorch, Tch, Linfa, SmartCore, Candle \
-**HPC Management:** RUST. 
+**Terminal and HPC Management:** RUST and Ratatui. \
+**Bioinformatics/Machine and Deep Learning:** RUST using Tch, Linfa, SmartCore, Candle \
 
 **Background:**
 
@@ -24,11 +21,9 @@ Since August 2017, I have worked as a Postdoctoral researcher at the Finnish Mus
 
 From 2022-2023, i added several new skills as a carrier advancement. From 2024 onwards, I worked at Universitat Potsdam, Germany, where I self-learnt RUST and develop approaches for machine and deep learning. During the time, I bench-marked PacBioHifi genome analysis and created a complete HMTL, CSS, Javascript enabled web and also coded several approaches, packages in Python and  RUST.  Since 2025, I worked as Area Expert at Instytut Chemii Bioorganicznej Polskiej Akademii Nauk, Poland, and i worked on human genomics and developed computational approaches for human genomics and software development.
 
-**Bioinformatics Software Research:** Over the years, I have worked with several languages such as C++ (2010-2021), R (2010-2025), Python (2021-), RUST (2024-) but mostly used one system programming language such as **C++ (2010-2021) and then replaced with RUST, which i only use now and forever like C++ previously over 5K crates download** (2024-forever). I still use Python and R as a part of the analysis but mostly where it is not having a RUST companion. I believe more in addressing software development using the programming languages i prefer and not to show off multiple languages. Hence i take the languages, which are dominant in their field. I am not interested in any language war or hype. I use what i see as the most dominant and efficient language for solving computational problems.
+**Bioinformatics Software Research:** Over the years, I have worked with several languages such as C++ (2010-2021), R (2010-2025), Python (2021-), RUST (2024-) but mostly used one system programming language such as **C++ (2010-2021) and then replaced with RUST, which i only use now, over 5K crates download**. I still use Python and R as a part of the analysis and also machine and deep learning, where RUST is not available. As a fantatic reader and coder (I wrote and developed every software as single lead bioinformatician at every employment), I sometimes read a little bit about other languages but that doesnt mean, I plan to use them. I do this to enhance my knowledge and bring that features to the language i use. As of now, I only code in RUST as a full stack developer from bioinformatics, software, web and machine and deep learning. I believe a Bioinformatician/Software Developer should be well informed of the research in their areas so that they can actively use them for the place of the employment. I prefer using the most demanded and ahead of the time language and hence prefer RUST 🦀. Use of selected languages for everything has enabled me to scale my abilities to everything at every employment and i served as a single lead bioinformatician from software developer to bioinformatics data analysis, machine learning and HPC cloud management. 
 
-As a fantatic reader and coder (I wrote and developed every software as single lead bioinformatician at every employment), I sometimes read a little bit about other languages but that doesnt mean, I plan to use them. I do this to enhance my knowledge and bring that features to the language i use. As of now, I only code in RUST as a full stack developer from bioinformatics, software, web and machine and deep learning. I believe a Bioinformatician/Software Developer should be well informed of the research in their areas so that they can actively use them for the place of the employment. I prefer using the modt demanded and ahead of the time language and hence prefer RUST 🦀 . Use of selected languages for everything has enabled me to scale my abilities to everything at every employment and i served as a single lead bioinformatician from software developer to bioinformatics data analysis, machine learning and HPC cloud management. 
-
-**RUST development:** Few of them and click the source for more of them. See the last commit tag as the final build release for each of the source repository. **RUST I only plan to use forever for anything in my software developer for bioinformatics, machine and deep learning, HPC and cloud management.**
+**RUST development:** Few of them and click the source for more of them. See the last commit tag as the final build release for each of the source repository. **RUST I only plan to use forever for bioinformatics, machine and deep learning, HPC and cloud management, software and web development.**
 
 - [eVaiUtilities](https://github.com/omicscode/eVaiutilities): Variant analysis from the eVai. 
 - [panscape](https://github.com/omicscode/panscape): Pangenome long reads 
@@ -55,5 +50,7 @@ As a fantatic reader and coder (I wrote and developed every software as single l
 - [varview](https://github.com/omicscode/varview): Paralel threaded sam viewer and filter.
 - [fastscan](https://github.com/omicscode/fastscan): Scan high through seqeuncing files.
 - [vcfscan](https://github.com/omicscode/vcfscan): Scan all the variants and filter the variants.
+- [bacencode](https://github.com/omicscode/bacencode): Autoencoder and Decoder for any genome with variables.
+- [accusnv-rust](https://github.com/omicscode/accusnv-rust): RUST version of accusnv for variant annotation.  
 
  
