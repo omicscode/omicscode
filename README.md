@@ -52,4 +52,5 @@ I am actively coding for multiple job offers hence some of them are under active
 - [rustshap](https://github.com/omicscode/rustshap): Shap values implemented for RUST machine learning evaluation.
 - [dgnseq](https://github.com/omicscode/dgnseq): Implementing the GNN network for the genomic sequences.
 - [rustshap](https://github.com/omicscode/rustshap): Implementing the shap in RUST.
-- [webml](https://github.com/omicscode/webml): bringing web to the machine learning. 
+- [webml](https://github.com/omicscode/webml): bringing web to the machine learning.
+- [smartrun](https://github.com/omicscode/smartrun): LSTM genomic implementation using RUST.
