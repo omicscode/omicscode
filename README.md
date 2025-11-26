@@ -54,3 +54,4 @@ I am actively coding for multiple job offers hence some of them are under active
 - [rustshap](https://github.com/omicscode/rustshap): Implementing the shap in RUST.
 - [webml](https://github.com/omicscode/webml): bringing web to the machine learning.
 - [smartrun](https://github.com/omicscode/smartrun): LSTM genomic implementation using RUST.
+- [seqboost](https://github.com/rustcodepro/seqboost): Graph neural network using RUST.
