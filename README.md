@@ -22,7 +22,8 @@ From August 2017-December 2021, I worked as a Postdoctoral researcher at the Fin
 
 I am actively coding for multiple job offers hence some of them are under active development. See the last commit tag as the final build release for each of the source repository.
   
-- [eVaiUtilities](https://github.com/omicscode/eVaiutilities): Variant analysis from the eVai. 
+- [eVaiUtilities](https://github.com/omicscode/eVaiutilities): Variant analysis from the eVai.
+- [egraph](https://github.com/rustcodepro/egraph): egraph for the eVai machine learning.
 - [panscape](https://github.com/omicscode/panscape): Pangenome long reads 
 - [sequenceprofiler](https://github.com/omicscode/sequenceprofiler): Profiling sequence kmers for histograms 
 - [phyloevolve](https://github.com/omicscode/phyloevolve): Long reads and alignments from the multiple alignments. 
@@ -55,3 +56,5 @@ I am actively coding for multiple job offers hence some of them are under active
 - [webml](https://github.com/omicscode/webml): bringing web to the machine learning.
 - [smartrun](https://github.com/omicscode/smartrun): LSTM genomic implementation using RUST.
 - [seqboost](https://github.com/rustcodepro/seqboost): Graph neural network using RUST.
+- [encoderb](https://github.com/rustcodepro/encoderb): A support vector machine sparse matrix kmer classification approach.
+- [seqred](https://github.com/rustcodepro/seqred): A support vector classification approach and autoencoder neural for sequence clusters.
