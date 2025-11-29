@@ -58,3 +58,4 @@ I am actively coding for multiple job offers hence some of them are under active
 - [seqboost](https://github.com/rustcodepro/seqboost): Graph neural network using RUST.
 - [encoderb](https://github.com/rustcodepro/encoderb): A support vector machine sparse matrix kmer classification approach.
 - [seqred](https://github.com/rustcodepro/seqred): A support vector classification approach and autoencoder neural for sequence clusters.
+- [toxannotator](https://github.com/rustcodepro/toxannotator): Genome annotator and deep learning for protein based comparison for ToxDB.  
