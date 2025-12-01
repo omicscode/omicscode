@@ -1,6 +1,6 @@
 **Gaurav Sablok, PhD**
 
-**Research and Academic:** I am applying widely as Bioinformatician, Computational Biology and Genomics Research Fellow, NGS Specialist, Research Scientist, Scientific Software Developer, Bioinformatics CTO, and Lead researcher roles as Senior CTO, Senior Computational Lead and Bioinformatician/Associate.
+**Research:** I am applying widely as Bioinformatician, Computational Biology and Genomics Research Fellow, NGS Specialist, Research Scientist, Scientific Software Developer, Bioinformatics CTO, and Lead researcher roles as Senior CTO, Senior Computational Lead and Bioinformatician/Associate.
 - I work the areas of RNA-seq and Single cell, Metagenomics and Pangenomics covering all species and provide bio-software development, bioinformatics, machine and deep learning for Illumina and LongRead sequencing technologies.
 - I prefer research areas in University and Organization and read and write, fullstack RUST for the scientific and academic research.
 - As a part of the scientific and academic research, I am open to language classes to academics and research students. 
@@ -25,7 +25,7 @@
 - From 2025-2025, I worked as Area Expert at Instytut Chemii Bioorganicznej Polskiej Akademii Nauk, Poland, and worked on human genomics and developed computational approaches and softwares for human genomics.
 
 **Bioinformatics Software Research:** Over the years, I have worked with several languages such as C++ (2010-2021), R (2010-), Python (2021-), RUST (2024-) but mostly used one system programming language such as C++ (2010-2021) and then replaced with RUST(2024-). 
-- I still use Python and R as a part of the analysis and machine and deep learning only. As a fantatic reader and coder (I wrote and developed every software as single lead bioinformatician at every employment).
+- I still use Python and R as a part of the analysis and machine and deep learning only using PytTorch, Tensorflow or Keras as and when required. As a prolific reader and coder (I wrote and developed every software as single lead bioinformatician at every employment). 
 - Since 2024- I use only RUST as a full stack from bioinformatics, software, cloud and hpc management, web and machine and deep learning.
 - Use of specific one to two selected languages for everything has enabled me to scale my abilities to everything at every employment and i served as a single lead bioinformatician from software developer to bioinformatics data analysis, machine learning and HPC cloud management.
 - I am now using RUST as a full stack developer for bioinformatics, machine and deep learning, software and web development and python for data analysis and machine learning.
