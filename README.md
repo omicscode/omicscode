@@ -5,14 +5,14 @@
 - I prefer research areas in University and Organization and read and write, fullstack RUST for the scientific and academic research.
 - As a part of the scientific and academic research, I am open to language classes to academics and research students. 
 
-**Sequencing::** \
+**Sequencing::** 
 - 2010-2021: Plant, Bacterial, Fungi: RNASeq, GenomSeq, Phylogenomics, PacBio Sequencing, Single Cell Analysis, Bio-software. 
-- 2021:2023: Machine Learning, Bio-software. \
-- 2024: PanGenome, Bio-software. \
-- 2025: Human Genomics, Bio-software \
-- **Software Development:** C++(2010-2021), 2024-: RUST \
-- **Web Development:** RUST 🦀 i use Axum, Rocket, Dioxus, Actix, Warp, Yew, Leptos \
-- **Desktop,Terminal and HPC Development:** eGUI, Iced, Druid, GLTK, Ratatui. \
+- 2021:2023: Machine Learning, Bio-software. 
+- 2024: PanGenome, Bio-software. 
+- 2025: Human Genomics, Bio-software 
+- **Software Development:** C++(2010-2021), 2024-: RUST 
+- **Web Development:** RUST 🦀 i use Axum, Rocket, Dioxus, Actix, Warp, Yew, Leptos 
+- **Desktop,Terminal and HPC Development:** eGUI, Iced, Druid, GLTK, Ratatui. 
 - **Machine and Deep Learning:** RUST using Burn, Tch, Linfa, SmartCore, Candle.  
 
 **Background:**
@@ -31,7 +31,8 @@
 - I am now using RUST as a full stack developer for bioinformatics, machine and deep learning, software and web development and python for data analysis and machine learning.
 - I actively fork repositories, which are of use to me. I dont vibe code and use language models. Few of them are given below and some of these are under active development.
 - I am actively coding for multiple job offers hence some of them are under active development. See the last commit tag as the final build release for each of the source repository.
-  
+
+**Projects completed and currently working**:
 - [eVaiUtilities](https://github.com/omicscode/eVaiutilities): Variant analysis from the eVai.
 - [egraph](https://github.com/rustcodepro/egraph): egraph for the eVai machine learning.
 - [panscape](https://github.com/omicscode/panscape): Pangenome long reads 
