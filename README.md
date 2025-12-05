@@ -73,3 +73,4 @@
 - [toxencoder](https://github.com/rustcodepro/toxencoder):BERT implementation for ToxDB
 - [ptmclassifier](https://github.com/rustcodepro/ptmclassifier): Classification of the post translational modification sequences
 - [Toxpy](https://github.com/rustcodepro/toxpy): Comparative genomics analysis toolkit for ToxDB.
+- [ToxShell](https://github.com/rustcodepro/toxshell): Shell based Tox Comparative Genomics
