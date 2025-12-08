@@ -57,7 +57,7 @@
 - [ensemblcov](https://github.com/omicscode/ensemblcov): a complete kit for using the ensemblcov at your commandline.
 - [bactiPAN](https://github.com/omicscode/varView): complete bacterial pangenome analyzer both in shell and RUST.
 - [varView](https://github.com/omicscode/varView): Graphics enabled Variant terminal analyzer in RUST.
-- [doseqGO](https://github.com/omicscode/doseqGO): A complete sequence information portal for standalone sequence information.
+- [doseq](https://github.com/rustcodepro/doseq): A complete sequence information portal for standalone sequence information.
 - [varview](https://github.com/omicscode/varview): Paralel threaded sam viewer and filter.
 - [fastscan](https://github.com/omicscode/fastscan): Scan high through seqeuncing files.
 - [vcfscan](https://github.com/omicscode/vcfscan): Scan all the variants and filter the variants.
@@ -76,3 +76,4 @@
 - [ptmclassifier](https://github.com/rustcodepro/ptmclassifier): Classification of the post translational modification sequences
 - [Toxpy](https://github.com/rustcodepro/toxpy): Comparative genomics analysis toolkit for ToxDB.
 - [ToxShell](https://github.com/rustcodepro/toxshell): Shell based Tox Comparative Genomics
+- [ToxBrowse](https://github.com/rustcodepro/toxbrowse): ToxBrowse for ToxDB genome analysis.
