@@ -1,6 +1,6 @@
 **Gaurav Sablok, PhD**
 
-**Research:** I am applying widely as Bioinformatician, Computational Biology and Genomics Research Fellow, NGS Specialist, Research Scientist, Scientific Software Developer, Bioinformatics CTO, and Lead researcher roles as Senior CTO, Senior Computational Lead and Bioinformatician/Associate.
+**Research:** I am applying widely as Bioinformatician, Computational Biology and Genomics Research Fellow, NGS Specialist, Research Scientist, Scientific Software Developer, Bioinformatics CTO, and Lead researcher roles as Senior CTO, Senior Computational Lead and Bioinformatician/Associate. A copy of my curriculum vitae can be downloaded from here: [Curriculum Vitae](https://www.icloud.com/iclouddrive/088QrZHmTgS5_iJv8RpT1-yLg#GauravSablok)
 - I work the areas of RNA-seq and Single cell, Metagenomics and Pangenomics covering all species and provide bio-software development, bioinformatics, machine and deep learning for Illumina and LongRead sequencing technologies.
 - I prefer research areas in University and Organization and read and write, fullstack RUST for the scientific and academic research.
 - As a part of the scientific and academic research, I am open to language classes to academics and research students. 
