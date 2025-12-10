@@ -77,3 +77,5 @@
 - [Toxpy](https://github.com/rustcodepro/toxpy): Comparative genomics analysis toolkit for ToxDB.
 - [ToxShell](https://github.com/rustcodepro/toxshell): Shell based Tox Comparative Genomics
 - [ToxBrowse](https://github.com/rustcodepro/toxbrowse): ToxBrowse for ToxDB genome analysis.
+- [Proteoseek](github.com/rustcodepro/proteoseek): Protein PTM annotation using the classification approach.
+- [ptmseek](https://github.com/rustcodepro/ptmseek): Protein PTM classification using the LSTM approach. 
