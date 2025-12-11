@@ -64,7 +64,6 @@
 - [smartrun](https://github.com/omicscode/smartrun): LSTM genomic implementation using RUST.
 - [seqboost](https://github.com/rustcodepro/seqboost): Graph neural network using RUST.
 - [encoderb](https://github.com/rustcodepro/encoderb): A support vector machine sparse matrix kmer classification approach.
-- [seqred](https://github.com/rustcodepro/seqred): A support vector classification approach and autoencoder neural for sequence clusters.
 - [toxannotator](https://github.com/rustcodepro/toxannotator): Genome annotator and deep learning for protein based comparison for ToxDB.
 - [toxencoder](https://github.com/rustcodepro/toxencoder):BERT implementation for ToxDB
 - [ptmclassifier](https://github.com/rustcodepro/ptmclassifier): Classification of the post translational modification sequences
