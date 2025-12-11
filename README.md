@@ -12,7 +12,7 @@
 - 2025: Human Genomics, Bio-software 
 - **Software Development:** C++(2010-2021), 2024-: RUST 
 - **Web Development:** RUST 🦀 i use Axum, Rocket, Dioxus, Actix, Warp, Yew, Leptos 
-- **Desktop,Terminal and HPC Development:** eGUI, Iced, Druid, GLTK, Ratatui. 
+- **Desktop,Terminal and HPC Development:** eGUI, Iced, Ratatui. 
 - **Machine and Deep Learning:** RUST using Burn, Tch, Linfa, SmartCore, Candle.  
 
 **Background:**
@@ -78,4 +78,5 @@
 - [ToxShell](https://github.com/rustcodepro/toxshell): Shell based Tox Comparative Genomics
 - [ToxBrowse](https://github.com/rustcodepro/toxbrowse): ToxBrowse for ToxDB genome analysis.
 - [Proteoseek](github.com/rustcodepro/proteoseek): Protein PTM annotation using the classification approach.
-- [ptmseek](https://github.com/rustcodepro/ptmseek): Protein PTM classification using the LSTM approach. 
+- [ptmseek](https://github.com/rustcodepro/ptmseek): Protein PTM classification using the LSTM approach.
+- [protalignspec](https://github.com/rustcodepro/protalignspec): Alignment to spectral intensities
