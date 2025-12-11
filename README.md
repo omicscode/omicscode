@@ -17,11 +17,11 @@
 - 2024: PanGenome, Bio-software. 
 - 2025: Human Genomics, Bio-software  
 
-**Bioinformatics Software Research:** Over the years, I have worked with several languages such as C++ (2010-2021), R (2010-), Python (2021-), RUST (2024-) but mostly used one system programming language such as C++ (2010-2021) and then replaced with RUST(2024-). 
+**Bioinformatics Software Research:** Over the years, I have worked with several languages such as C++ (2010-2021), R (2010-2021), Python (2021-), RUST (2024-) but mostly used one system programming language such as C++ (2010-2021) and then replaced with RUST(2024-). 
 - Software Development: C++(2010-2021), 2024-: RUST 
 - Web Development: RUST 🦀 i use Axum, Rocket, Dioxus, Actix, Warp, Yew, Leptos 
 - Desktop,Terminal and HPC Development: eGUI, Iced, Ratatui. 
-- Machine and Deep Learning: RUST using Burn, Tch, Linfa, SmartCore, Candle. I still use Python as a part of the analysis and machine and deep learning only using PyTorch, Tensorflow and Keras as and when required.
+- Machine and Deep Learning: RUST using Burn, Tch, Linfa, SmartCore, Candle. I still use Python as a part of the analysis and machine and deep learning using PyTorch, Tensorflow and Keras as and when required.
 - As a prolific reader and coder (I wrote and developed every software as single lead bioinformatician at every employment). 
 - Since 2024- I use only RUST as a full stack from bioinformatics, software, cloud and hpc management, web and machine and deep learning.
 - Use of specific one to two selected languages for everything has enabled me to scale my abilities to everything at every employment and i served as a single lead bioinformatician from software developer to bioinformatics data analysis, machine learning and HPC cloud management.
