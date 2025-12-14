@@ -17,7 +17,9 @@
 - 2024: PanGenome, Bio-software. 
 - 2025: Human Genomics, Bio-software  
 
-**Bioinformatics Software Research:** Over the years, I have worked with several languages such as C++ (2010-2021), R (2010-2021), Python (2021-), RUST (2024-) but mostly used one system programming language such as C++ (2010-2021) and then replaced with RUST(2024-). 
+**Bioinformatics Software Research:** 
+ - Over the years, I have worked with several languages such as
+   -- C++ (2010-2021), R (2010-2021), Python (2021-), RUST (2024-) but mostly used one system programming language such as C++ (2010-2021) and then replaced with RUST(2024-). 
 - Software Development: C++(2010-2021), 2024-: RUST as a full stack from bioinformatics, software, cloud and hpc management, web and machine and deep learning.
 - Web Development: RUST 🦀 i use Axum, Rocket, Dioxus, Actix, Warp, Yew, Leptos 
 - Desktop,Terminal and HPC Development: eGUI, Iced, Ratatui. 
@@ -72,3 +74,5 @@
 - [Proteoseek](github.com/rustcodepro/proteoseek): Protein PTM annotation using the classification approach.
 - [ptmseek](https://github.com/rustcodepro/ptmseek): Protein PTM classification using the LSTM approach.
 - [protalignspec](https://github.com/rustcodepro/protalignspec): Alignment to spectral intensities
+- [toxgui](https://github.com/rustcodepro/toxgui): ToxGUI Rust Based for ToxDB
+- [ghlearn](https://github.com/rustcodepro/ghlearn): Variant machine and deep learning directly from the variant file and the annotation file. 
