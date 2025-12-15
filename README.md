@@ -28,7 +28,7 @@
 
 **Projects completed and currently working**:
 
-- Rust Crates Build at Poznan, Poland(2025-2025) 
+- Rust Crates Build at Poznan, Poland. (2025-2025) 
   - [eVaiUtilities](https://github.com/omicscode/eVaiutilities): Variant analysis from the eVai.
   - [egraph](https://github.com/rustcodepro/egraph): egraph for the eVai machine learning.
   - [NLRanalyzer](https://github.com/omicscode/NLRanalyzer): Complete kit for analyzing NLR.
@@ -66,7 +66,7 @@
   - [ghlearn](https://github.com/rustcodepro/ghlearn): Variant machine and deep learning directly from the variant file and the annotation file. 
   - [graphqlvar](https://github.com/rustcodepro/graphqlvar): Variant GraphQL analyzer.
   
- - Rust Crates Build at Potsdam Germany.(2024-2024) 
+ - Rust Crates Build at Potsdam Germany. (2024-2024) 
    - [panscape](https://github.com/omicscode/panscape): Pangenome long reads
    - [sequenceprofiler](https://github.com/omicscode/sequenceprofiler): Profiling sequence kmers for histograms
    - [phyloevolve](https://github.com/omicscode/phyloevolve): Long reads and alignments from the multiple alignments.
