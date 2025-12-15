@@ -27,49 +27,52 @@
 - I am actively coding for multiple job offers hence some of them are under active development. See the last commit tag as the final build release for each of the source repository.
 
 **Projects completed and currently working**:
-- [eVaiUtilities](https://github.com/omicscode/eVaiutilities): Variant analysis from the eVai.
-- [egraph](https://github.com/rustcodepro/egraph): egraph for the eVai machine learning.
-- [panscape](https://github.com/omicscode/panscape): Pangenome long reads 
-- [sequenceprofiler](https://github.com/omicscode/sequenceprofiler): Profiling sequence kmers for histograms 
-- [phyloevolve](https://github.com/omicscode/phyloevolve): Long reads and alignments from the multiple alignments. 
-- [hpcMapper](https://github.com/omicscode/hpcMapper): DevOPS system managment for the high performance computing.
-- [bacdive](https://github.com/omicscode/bacdive): Bacterial genome analysis from Bacdive.
-- [NLRanalyzer](https://github.com/omicscode/NLRanalyzer): Complete kit for analyzing NLR.
-- [humanCAST](https://github.com/omicscode/humanCAST): Complete kit for human genome analysis.
-- [araseq](https://github.com/omicscode/araseq): Complete kit for the Arabidopsis genome information.
-- [minifyseq](https://github.com/omicscode/minifySeq): Noise removal from the long reads inclduing the machine learning based.
-- [CAGanalyzer](https://github.com/omicscode/CAGrepeat-analyzer): Analyzing the CAG repeats from the human genome.
-- [doiTAG](https://github.com/omicscode/doiTAG): Generating doi for the sequences for next generation sequencing.
-- [varLinker](https://github.com/omicscode/varlinker): Analyzing and linking variants for annotation.
-- [vcfFilter](https://github.com/omicscode/vcfilter): Filtering VCF files
-- [rustRet](https://github.com/omicscode/rustRet): Analyzing the massspectrometry data.
-- [repgnerate](https://github.com/omicscode/repgenerate): Analyzing the sequencing information post sequencing.
-- [proteogenomics](https://github.com/omicscode/proteogenomics): implementing the proteogenomics methods.
-- [geomapper](https://github.com/omicscode/geomapper): a complete kit for geospatial analysis for German geo.
-- [ensemblcov](https://github.com/omicscode/ensemblcov): a complete kit for using the ensemblcov at your commandline.
-- [bactiPAN](https://github.com/omicscode/varView): complete bacterial pangenome analyzer both in shell and RUST.
-- [varView](https://github.com/omicscode/varView): Graphics enabled Variant terminal analyzer in RUST.
-- [doseq](https://github.com/rustcodepro/doseq): A complete sequence information portal for standalone sequence information.
-- [varview](https://github.com/omicscode/varview): Paralel threaded sam viewer and filter.
-- [fastscan](https://github.com/omicscode/fastscan): Scan high through seqeuncing files.
-- [vcfscan](https://github.com/omicscode/vcfscan): Scan all the variants and filter the variants.
-- [bacencode](https://github.com/omicscode/bacencode): Autoencoder and Decoder for any genome with variables.
-- [accusnv-rust](https://github.com/omicscode/accusnv-rust): RUST version of accusnv for variant annotation.
-- [rustshap](https://github.com/omicscode/rustshap): Shap values implemented for RUST machine learning evaluation.
-- [dgnseq](https://github.com/omicscode/dgnseq): Implementing the GNN network for the genomic sequences.
-- [rustshap](https://github.com/omicscode/rustshap): Implementing the shap in RUST.
-- [webml](https://github.com/omicscode/webml): bringing web to the machine learning.
-- [smartrun](https://github.com/omicscode/smartrun): LSTM genomic implementation using RUST.
-- [seqboost](https://github.com/rustcodepro/seqboost): Graph neural network using RUST.
-- [encoderb](https://github.com/rustcodepro/encoderb): A support vector machine sparse matrix kmer classification approach.
-- [toxannotator](https://github.com/rustcodepro/toxannotator): Genome annotator and deep learning for protein based comparison for ToxDB.
-- [toxencoder](https://github.com/rustcodepro/toxencoder):BERT implementation for ToxDB
-- [ptmclassifier](https://github.com/rustcodepro/ptmclassifier): Classification of the post translational modification sequences
-- [Toxpy](https://github.com/rustcodepro/toxpy): Comparative genomics analysis toolkit for ToxDB.
-- [ToxShell](https://github.com/rustcodepro/toxshell): Shell based Tox Comparative Genomics
-- [ToxBrowse](https://github.com/rustcodepro/toxbrowse): ToxBrowse for ToxDB genome analysis.
-- [Proteoseek](github.com/rustcodepro/proteoseek): Protein PTM annotation using the classification approach.
-- [ptmseek](https://github.com/rustcodepro/ptmseek): Protein PTM classification using the LSTM approach.
-- [protalignspec](https://github.com/rustcodepro/protalignspec): Alignment to spectral intensities
-- [toxgui](https://github.com/rustcodepro/toxgui): ToxGUI Rust Based for ToxDB
-- [ghlearn](https://github.com/rustcodepro/ghlearn): Variant machine and deep learning directly from the variant file and the annotation file. 
+
+- Rust Crates Build at Poznan, Poland(2025-2025) 
+  - [eVaiUtilities](https://github.com/omicscode/eVaiutilities): Variant analysis from the eVai.
+  - [egraph](https://github.com/rustcodepro/egraph): egraph for the eVai machine learning.
+  - [NLRanalyzer](https://github.com/omicscode/NLRanalyzer): Complete kit for analyzing NLR.
+  - [humanCAST](https://github.com/omicscode/humanCAST): Complete kit for human genome analysis.
+  - [CAGanalyzer](https://github.com/omicscode/CAGrepeat-analyzer): Analyzing the CAG repeats from the human genome.
+  - [doiTAG](https://github.com/omicscode/doiTAG): Generating doi for the sequences for next generation sequencing.
+  - [varLinker](https://github.com/omicscode/varlinker): Analyzing and linking variants for annotation.
+  - [vcfFilter](https://github.com/omicscode/vcfilter): Filtering VCF files
+  - [rustRet](https://github.com/omicscode/rustRet): Analyzing the massspectrometry data.
+  - [repgnerate](https://github.com/omicscode/repgenerate): Analyzing the sequencing information post sequencing.
+  - [ensemblcov](https://github.com/omicscode/ensemblcov): a complete kit for using the ensemblcov at your commandline.
+  - [bactiPAN](https://github.com/omicscode/varView): complete bacterial pangenome analyzer both in shell and RUST.
+  - [varview](https://github.com/omicscode/varview): Paralel threaded sam viewer and filter.
+  - [fastscan](https://github.com/omicscode/fastscan): Scan high through seqeuncing files.
+  - [vcfscan](https://github.com/omicscode/vcfscan): Scan all the variants and filter the variants.
+  - [bacencode](https://github.com/omicscode/bacencode): Autoencoder and Decoder for any genome with variables.
+  - [accusnv-rust](https://github.com/omicscode/accusnv-rust): RUST version of accusnv for variant annotation.
+  - [rustshap](https://github.com/omicscode/rustshap): Shap values implemented for RUST machine learning evaluation.
+  - [dgnseq](https://github.com/omicscode/dgnseq): Implementing the GNN network for the genomic sequences.
+  - [rustshap](https://github.com/omicscode/rustshap): Implementing the shap in RUST.
+  - [webml](https://github.com/omicscode/webml): bringing web to the machine learning.
+  - [smartrun](https://github.com/omicscode/smartrun): LSTM genomic implementation using RUST.
+  - [seqboost](https://github.com/rustcodepro/seqboost): Graph neural network using RUST.
+  - [encoderb](https://github.com/rustcodepro/encoderb): A support vector machine sparse matrix kmer classification approach.
+  - [toxannotator](https://github.com/rustcodepro/toxannotator): Genome annotator and deep learning for protein based comparison for ToxDB.
+  - [toxencoder](https://github.com/rustcodepro/toxencoder):BERT implementation for ToxDB
+  - [ptmclassifier](https://github.com/rustcodepro/ptmclassifier): Classification of the post translational modification sequences
+  - [Toxpy](https://github.com/rustcodepro/toxpy): Comparative genomics analysis toolkit for ToxDB.
+  - [ToxShell](https://github.com/rustcodepro/toxshell): Shell based Tox Comparative Genomics
+  - [ToxBrowse](https://github.com/rustcodepro/toxbrowse): ToxBrowse for ToxDB genome analysis.
+  - [Proteoseek](github.com/rustcodepro/proteoseek): Protein PTM annotation using the classification approach.
+  - [ptmseek](https://github.com/rustcodepro/ptmseek): Protein PTM classification using the LSTM approach.
+  - [protalignspec](https://github.com/rustcodepro/protalignspec): Alignment to spectral intensities
+  - [toxgui](https://github.com/rustcodepro/toxgui): ToxGUI Rust Based for ToxDB
+  - [ghlearn](https://github.com/rustcodepro/ghlearn): Variant machine and deep learning directly from the variant file and the annotation file. 
+  - [graphqlvar](https://github.com/rustcodepro/graphqlvar): Variant GraphQL analyzer.
+  
+ - Rust Crates Build at Potsdam Germany.(2024-2024) 
+   - [panscape](https://github.com/omicscode/panscape): Pangenome long reads
+   - [sequenceprofiler](https://github.com/omicscode/sequenceprofiler): Profiling sequence kmers for histograms
+   - [phyloevolve](https://github.com/omicscode/phyloevolve): Long reads and alignments from the multiple alignments.
+   - [hpcMapper](https://github.com/omicscode/hpcMapper): DevOPS system managment for the high performance computing.
+   - [bacdive](https://github.com/omicscode/bacdive): Bacterial genome analysis from Bacdive.
+   - [araseq](https://github.com/omicscode/araseq): Complete kit for the Arabidopsis genome information.
+   - [minifyseq](https://github.com/omicscode/minifySeq): Noise removal from the long reads inclduing the machine learning based
+   - [proteogenomics](https://github.com/omicscode/proteogenomics): implementing the proteogenomics methods.
+   - [geomapper](https://github.com/omicscode/geomapper): a complete kit for geospatial analysis for German geo.
