@@ -70,7 +70,8 @@
   - [ghlearn](https://github.com/rustcodepro/ghlearn): Variant machine and deep learning directly from the variant file and the annotation file. 
   - [graphqlvar](https://github.com/rustcodepro/graphqlvar): Variant GraphQL analyzer.
   - [varql](https://github.com/rustcodepro/varql): GraphQL based machine learning.
-  - [varpred](https://github.com/rustcodepro/varpred): Variant prediction machine learning on population data. 
+  - [varpred](https://github.com/rustcodepro/varpred): Variant prediction machine learning on population data.
+  - [boostmer](https://github.com/rustcodepro/boostmer): Bagging and Boosting approach for variant and metagenomics reads.
   
  - Rust Crates Build at Potsdam Germany. (2024-2024) 
    - [panscape](https://github.com/omicscode/panscape): Pangenome long reads
