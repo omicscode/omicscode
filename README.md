@@ -4,7 +4,7 @@
 - I am applying and accepting research job offers as Bioinformatician, Computational Biology and Genomics Research Fellow, NGS Specialist, Research Scientist, Senior CTO and Bioinformatician/Associate. 
 - A copy of my curriculum vitae can be downloaded from here: [Curriculum Vitae](https://www.icloud.com/iclouddrive/088QrZHmTgS5_iJv8RpT1-yLg#GauravSablok).
 - A presentation of my work can be downloaded from here: [Curriculum Vitae Presentation](https://www.icloud.com/iclouddrive/00237w6i_kPRHp7qEKTIYT7QQ#Gaurav%5FSablok%5FResearch%5FOverview).
-- 2010-2021: Plant, Bacterial, Fungi: RNASeq, GenomSeq, Phylogenomics, PacBio Sequencing, Single Cell Analysis, SoftwareDev. 
+- 2010-2021: Plant, Bacterial, Fungi: RNASeq, GenomSeq, Genome Annotation, Phylogenomics, Comparative Genomics using Illumina, PacBio Sequencing, SoftwareDev. 
 - 2021:2023: Machine Learning, SoftwareDev. 
 - 2024: PanGenome, SoftwareDev. 
 - 2025: Variant  and RNA-Seq Human Genomics, SoftwareDev  
