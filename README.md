@@ -60,8 +60,6 @@
   - [toxannotator](https://github.com/rustcodepro/toxannotator): Genome annotator and deep learning for protein based comparison for ToxDB.
   - [toxencoder](https://github.com/rustcodepro/toxencoder):BERT implementation for ToxDB
   - [ptmclassifier](https://github.com/rustcodepro/ptmclassifier): Classification of the post translational modification sequences
-  - [Toxpy](https://github.com/rustcodepro/toxpy): Comparative genomics analysis toolkit for ToxDB.
-  - [ToxShell](https://github.com/rustcodepro/toxshell): Shell based Tox Comparative Genomics
   - [ToxBrowse](https://github.com/rustcodepro/toxbrowse): ToxBrowse for ToxDB genome analysis.
   - [Proteoseek](github.com/rustcodepro/proteoseek): Protein PTM annotation using the classification approach.
   - [ptmseek](https://github.com/rustcodepro/ptmseek): Protein PTM classification using the LSTM approach.
@@ -73,6 +71,7 @@
   - [varpred](https://github.com/rustcodepro/varpred): Variant prediction machine learning on population data.
   - [boostmer](https://github.com/rustcodepro/boostmer): Bagging and Boosting approach for variant and metagenomics reads.
   - [rnaml](https://github.com/rustcodepro/rnaml): RNAML for Machine and Deep learning for predictions.
+  - [seqmap](https://github.com/rustcodepro/seqmap): SeqMap for the genomic mapping. 
   
  - Rust Crates Build at Potsdam Germany. (2024-2024) 
    - [panscape](https://github.com/omicscode/panscape): Pangenome long reads
