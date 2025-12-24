@@ -71,7 +71,8 @@
   - [varpred](https://github.com/rustcodepro/varpred): Variant prediction machine learning on population data.
   - [boostmer](https://github.com/rustcodepro/boostmer): Bagging and Boosting approach for variant and metagenomics reads.
   - [rnaml](https://github.com/rustcodepro/rnaml): RNAML for Machine and Deep learning for predictions.
-  - [seqmap](https://github.com/rustcodepro/seqmap): SeqMap for the genomic mapping. 
+  - [seqmap](https://github.com/rustcodepro/seqmap): SeqMap for the genomic mapping.
+  - [seqCluster](https://github.com/rustcodepro/seqcluster): Metagenomics SeqCluster
   
  - Rust Crates Build at Potsdam Germany. (2024-2024) 
    - [panscape](https://github.com/omicscode/panscape): Pangenome long reads
